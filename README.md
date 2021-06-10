@@ -1,6 +1,8 @@
 # Personal Website
 I built this website to let people know a little bit about myself. It was developed using React and Node.js.
 
+https://jaredmacintyre.github.io/about-me/
+
 ## Setup
 Run locally:
 
