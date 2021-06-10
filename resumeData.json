@@ -1,0 +1,109 @@
+{
+  "main": {
+    "name": "Jared MacIntyre",
+    "occupation": "Software Engineer",
+    "description": "",
+    "image": "profilepic3.jpg",
+    "bio": "I'm a Software Developer from the Greater Toronto Area. I have a Bachelor of Computing in Computer Science from the University of Guelph, and my current focus and inspiration is Web Development. In my spare time, I am an avid musician, hockey player, gamer, and traveller. I have a passion for taking on new challenges, be it learning a new instrument, beating the final boss of a tough dungeon crawler, or playing around with the latest in tech.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "jaredmac123@gmail.com",
+    "phone": "289-338-9725",
+    "address": {
+      "street": "(Your Street)",
+      "city": "Toronto",
+      "state": "Ontario",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "https://jaredmacintyre.github.io/Portfolio-Website/",
+    "resumedownload": "http://google.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jared-macintyre/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/jaredmacintyre",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "University of Guelph",
+        "degree": "Bachelor of Computing, Computer Science",
+        "graduated": "April 2020",
+        "description": "I attended the University of Guelph to pursue a Bachelors of Computing degree, with a major in Computer Science. Throughout my study I developed my skills as a Software Engineer, taking a gamut of courses that delved deep into complex theory, mathematics, and development concepts in the discipline of Computer Science. I built a 3D version of Space Invaders in C, a C (ish) language compiler in Java, an app to collect student opinions in React Native, and much more. It was here I discovered my knack for building complex data structures, solving tough problems, and all things software."
+      }
+    ],
+    "work": [
+      {
+        "company": "Self-Employed",
+        "title": "Entrepreneur",
+        "years": "Summer 2020 - Present",
+        "description": "That's right! Since I graduated from the University of Guelph, I've taken a break from my development work to focus on some of my other biggest passions in life. My main focus has been my music, which I have enjoyed diving right into creating with enthusiasm. I have been paying the bills with income from a self-started side business on Amazon.com, where I started a brand that operates as a 3rd-Party seller. It's got me this far, but my short break has sharpened my focus once again on my career as a Software Developer, with more excitement than ever."
+      },
+      {
+        "company": "Ministry of Transportation",
+        "title": "Junior Technical Analyst",
+        "years": "Fall 2017",
+        "description": "The Ministry of Transportation gave me my first taste of professional development work. I was a part of the Solutions Delivery Centre (SDC) and got my hands wet on various creative projects during my tenure. I touched upon several web applications that were being developed using C# and ASP.NET that were exploring integration with the new Microsoft Azure cloud-based services that were available to the SDC. In addition to this I was responsible for researching the Microsoft Operations Management Suite (OMS) cloud-based monitoring solutions and configuring it to monitor cost and usage data from Virtual Machines being used by developers, as well as developing powershell scripts to monitor the availability of a number of Ministry web services."
+      },
+      {
+        "company": "McKesson Canada",
+        "title": "Business Analyst",
+        "years": "Summer 2017",
+        "description": "At McKesson Canada I worked with the POS (Point of Sale) Software team. My job was to work with independent pharmacies across Canada to perform POS (Point of Sale) terminal software installations and updates remotely through TeamViewer."
+      },
+      {
+        "company": "Casualife",
+        "title": "Warehouse/Delivery Worker",
+        "years": "Summer 2016",
+        "description": "At Casualife my primary responsibility was to handle the delivery and setup of high-end patio furniture to client around the Greater Toronto Area. The job taught me a lot about working with clients, with whom I communicated daily by phone and in person to ensure their living spaces were arranged with care and precision."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "description": "70%"
+      },
+      {
+        "name": "React",
+        "description": "60%"
+      },
+      {
+        "name": "Angular",
+        "description": "70%"
+      },
+      {
+        "name": "Java",
+        "description": "90%"
+      },
+      {
+        "name": "C",
+        "description": "90%"
+      }
+    ],
+    "skillmessage": "I love playing with new technologies, and here are some of my favourites"
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Sample project",
+        "category": "Sample project",
+        "image": "smaple.jpg",
+        "url": "https://www.sampleurl.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      }
+    ]
+  }
+}
